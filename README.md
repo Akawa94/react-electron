@@ -1,9 +1,9 @@
 Basic Case History System, using:
 
--Electron<br/>
--React (front)<br/>
--Python (back)<br/>
--Google Drive (as storage)<br/>
+>Electron<br/>
+>React (front)<br/>
+>Python (back)<br/>
+>Google Drive (as storage)<br/>
 
 To run this project
 
